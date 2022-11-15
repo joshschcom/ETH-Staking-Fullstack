@@ -8,6 +8,8 @@ npm i @nomiclabs/hardhat-ethers @nomiclabs/hardhat-waffle chai ethereum-waffle e
 
 npx hardhat node
 
+npm create-react-app Staking
+
 npm i react-bootstrap-icons ethers bootstrap
 
 npm i dotenv
