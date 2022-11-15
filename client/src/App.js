@@ -7,7 +7,7 @@ import NavBar from "./components/NavBar";
 import StakeModal from "./components/StakeModal";
 import { Bank, PiggyBank, Coin } from "react-bootstrap-icons";
 
-const CONTRACT_ADDRESS = "0x2147CFD100e2E92164c5BE7C757ADf20b8F8757E"; //Mumbai
+const CONTRACT_ADDRESS = "YOUR_CONTRACT_ADDRESS_HERE"; //Mumbai
 
 //https://flyclipart.com/thumb2/ethereum-logo-elevenews-738451.png
 
